@@ -1,36 +1,22 @@
-# <b>PythonQuiz<b>
+# **PythonQuiz**
 
-Project Description
+## **Project Description**
   A private Python project I started before the fall school term of 2022 began. Wanted to use it to keep my programming skills within Python up to date.
+  
+  The goal with the project was to make a quiz application that would utilize several core functions within Python. In our case it would utilize writing and reading
+  to file, dictionaries, if statements and loops.
+  
+  When I originally started this project I had good progress for the first couple of days, only working a few hours on it. I however reached a hurdle when I wanted
+  to avoid having a question being picked twice. After spending a good night on trying to find solutions I ended up making a post on Stackoverflow where I got a 
+  couple of insightful answers that helped me achieve my goal.
+  
+  As this is a WiP I'm still not complete, so the next stage will be creating a GUI.
 
 
-Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+## **How to Use the Project**
+   The project should run easily enough, either through the console or through the future GUI.
 
-The quality of a README description often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase:
 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
-3. Table of Contents (Optional)
-If your README is very long, you might want to add a table of contents to make it easy for users to navigate to different sections easily. It will make it easier for readers to move around the project with ease.
+## **Credits**
+I want to thank Quamrana and Nathaniel Ford on Stackoverflow for helping me solve the ranomisation issue.
 
-4. How to Install and Run the Project
-If you are working on a project that a user needs to install or run locally in a machine like a "POS", you should include the steps required to install your project and also the required dependencies if any.
-
-Provide a step-by-step description of how to get the development environment set and running.
-
-5. How to Use the Project
-Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
-
-You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
-
-Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
-
-6. Include Credits
-If you worked on the project as a team or an organization, list your collaborators/team members. You should also include links to their GitHub profiles and social media too.
-
-Also, if you followed tutorials or referenced a certain material that might help the user to build that particular project, include links to those here as well.
-
-This is just a way to show your appreciation and also to help others get a first hand copy of the project.
-
-7. Add a License
