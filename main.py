@@ -18,7 +18,7 @@ if answer.lower() == "yes":
     name = input(f"\nWhat's your name? ")
     points = 0
 
-# Code beneath edited and tidied up with help from Quamrana at Stackoverflow.
+
     question_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     random.shuffle(question_numbers)
 
