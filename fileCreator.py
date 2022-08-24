@@ -17,7 +17,7 @@ with open("question.txt", "w") as question_file:
 '''
 answers = {"1": "1969",
            "2": "java",
-           "3": "h20",
+           "3": "h2o",
            "4": "ultraviolet",
            "5": "lira",
            "6": "austria",
