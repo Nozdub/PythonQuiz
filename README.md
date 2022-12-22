@@ -18,5 +18,5 @@
 
 
 ## **Credits**
-I want to thank Quamrana and Nathaniel Ford on Stackoverflow for helping me solve the ranomisation issue.
+I want to thank Quamrana and Nathaniel Ford on Stackoverflow for helping me solve the randomisation issue.
 
